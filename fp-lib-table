@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name warsztaty)(type KiCad)(uri "C:\\KoNaR\\LF\\warsztaty_kicad\\paczka na strone\\libsy i footprinty\\footprint\\warsztaty.pretty")(options "")(descr ""))
+  (lib (name Desktop)(type KiCad)(uri C:\Users\Piotrek\Desktop)(options "")(descr ""))
+)
